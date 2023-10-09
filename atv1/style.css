@@ -1,0 +1,44 @@
+*h1{
+    color: rgb(245, 150, 150);
+}
+
+
+
+.primeiro_motivo {
+  width: 300px;
+  height: 200px;
+  margin: 10px;
+  padding: 20px;
+  border: 2px solid pink;
+}
+
+.segundo_motivo {
+    width: 250px;
+    height: 150px;
+    margin: 10px;
+    padding: 20px;
+    border: 2px solid pink;
+}
+
+.terceiro_motivo {
+    width: 350px;
+    height: 250px;
+    margin: 10px;
+    padding: 20px;
+    border: 2px solid pink;
+}
+
+.quarto_motivo {
+    width: 200px;
+    height: 100px;
+    margin: 10px;
+    padding: 20px;
+    border: 2px solid pink;
+}
+
+
+.volta_vidinha{
+    border: solid 4px pink;
+    padding: 10px 15px 20px 25px;
+}
+
